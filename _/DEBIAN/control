@@ -1,0 +1,10 @@
+Package: com.steincraig.springvolume
+Name: SpringVolume
+Depends: mobilesubstrate
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Volume buttons on your springboard.
+Maintainer: Stein Craig
+Author: Stein Craig
+Section: Tweaks
+Installed-Size: 16
